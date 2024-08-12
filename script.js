@@ -13,7 +13,7 @@ console.log("git version new line version4");
 //git config --global user.email "menariapushpendra164@gmail.com"
 //git config --global user.name "Pushpendra Menaria" 
 //git commit -m "initialCommit"
-//git log --all
+//git log --all                 //check all version
 //git status
 //git add .              //for change in file and resave
 //git status 
