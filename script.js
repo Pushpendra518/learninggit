@@ -1,4 +1,5 @@
 console.log("git version1");
+console.log("git version 2")
 console.log("git version new line version3");
 
 
@@ -21,3 +22,5 @@ console.log("git version new line version3");
 //git log --all
 //git checkout 6e07981f8567eebcd361bdc035a0c2db30af762b        //for change version 
 //git checkout 272d4104a71521e07e5d0b25b62e8dfb40f33bec        //for change previous version
+// git remote add origin https://github.com/Pushpendra518/learninggit.git
+//git push --set-upstream origin m     //for first time push
